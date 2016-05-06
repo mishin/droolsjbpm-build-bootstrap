@@ -40,7 +40,7 @@ If you don't want to contribute to this project and you know git and maven, thes
 * To build 1 repository, for example `guvnor`:
 
     ```shell
-    $ git clone git@github.com:droolsjbpm/guvnor.git
+    $ git clone https://github.com/droolsjbpm/guvnor.git
     $ cd guvnor
     $ mvn clean install -DskipTests
     ```
